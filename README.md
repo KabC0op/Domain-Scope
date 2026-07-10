@@ -12,7 +12,7 @@ Tools sederhana untuk *reconnaissance*: lookup IP, lokasi, ISP, dan info geoloka
 ## Instalasi
 
 ```bash
-git clone https://github.com/USERNAME/domainscope.git
+git clone https://github.com/KabC0op/domainscope.git
 cd domainscope
 pip install -r requirements.txt
 ```
