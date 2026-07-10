@@ -10,20 +10,23 @@ Tools sederhana untuk *reconnaissance*: lookup IP, lokasi, ISP, dan info geoloka
 - Latitude / Longitude
 
 ## Instalasi
+JANGAN LUPA INSTALL LIBRARY DAN WAJIB PAKAI PYTHON3 ATAU VERSI YANG TERBARU
+```bash
+pip3 install -r requirements.txt <----- library
+```
 
 ```bash
-git clone https://github.com/KabC0op/domainscope.git
-cd domainscope
-pip install -r requirements.txt
+git clone https://github.com/KabC0op/Domain-Scope.git
+cd Domain-Scope
 ```
 
 ## Cara Pakai
 
 ```bash
-python domainscope.py
+python3 domainscope.py
 ```
 
-Setelah dijalankan, masukkan nama domain (contoh: `google.com`), lalu hasil lookup akan tampil di terminal.
+Setelah dijalankan, masukkan nama domain (contoh: `google.com`), lalu hasil lookup akan terlihat sesuai Scanning yang berjalan.
 
 ## Author
 - **KabC0op**
